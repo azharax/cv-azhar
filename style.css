@@ -132,8 +132,9 @@ a {
     text-transform: capitalize;
 }
 .downloadBtn{
+    color: var(--text-color);
     display: block;
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     margin-top: 1rem;
 }
 .downloadBtn:hover{
