@@ -133,12 +133,12 @@ a {
 }
 .downloadBtn{
     display: block;
-    text-decoration: underline;
     font-size: 1.6rem;
     margin-top: 1rem;
 }
 .downloadBtn:hover{
     color: var(--primary-color);
+    text-decoration: underline;
 }
 @media only screen and (max-width: 768px) {
     .profile_container {
